@@ -1,0 +1,59 @@
+body{
+	margin:0;
+	padding:0;
+	width:100%;
+	height:100vh;
+	background:url(https://www.wallpaperbetter.com/wallpaper/589/420/28/haunting-foggy-river-1080P-wallpaper.jpg) 50% 50% no-repeat;
+	background-size:cover;
+	display:table;
+}
+.sign{
+	border:1px solid  #44595a;
+	border-radius:5px;
+	position:absolute;
+	top:30%;
+	left:40%;
+	padding:3em;
+}
+h2{
+	font-family:'Sourse Sans Pro';
+	color: white;
+	font-size:50px;
+	text-align:center;
+	margin-top:0px;
+	
+}
+input{
+	display:block;
+	width:320px;
+	height:50px;
+	background:#161818;
+	outline:none;
+	border: 1px solid black;
+	font-family: Source Sans Pro;
+	font-size:16px;
+	margin-bottom:10px;
+	padding-left:10px;
+	border-radius:5px;
+}
+button{
+	width:333px;
+	height:50px;
+	font-size:16px;
+	background: linear-gradient(to bottom, #000606  0%,  #06373b 100%);
+	font-weight:lighter;
+    color:#fff;
+	border:0px;
+	border-radius:5px;
+	
+}
+button:hover{
+border:1px solid #283747;
+color: ##e5e8e8;
+background:linear-gradient(to left,#7d867f 0%,#084c15 100%);
+height:60px;
+font-size:30px;
+font-weight:700;
+
+}	
+	
